@@ -1,5 +1,11 @@
 ### Hi there friends 👋
 
+## About Me
+
+I am Zubair Hussain by name, Software engineer with a 3+ years of field experience, I have bagged Equivalent of Bachelor certificate in Computer Science.
+
+I love developing and modifying existing software based on individuals customization. Also enjoy learning new technologies.
+
 <!--
 **hussain4me/hussain4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
