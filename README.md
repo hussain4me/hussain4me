@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there friends 👋
 
 <!--
 **hussain4me/hussain4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
