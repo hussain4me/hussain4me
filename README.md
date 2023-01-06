@@ -34,19 +34,45 @@ Skills and Interest
 - whatsapp : +2348121217734
 
 
-
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/phplogo_resize.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/laravellogo.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/pythonlogo.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/djangolog.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/mysqllogo.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/sqlitelogo.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/jslogo.png?raw=true)
 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=hussain4me&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=hussain4me&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=hussain4me&show_icons=true" />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=hussain4me&theme=dark&show_icons=true" />
 </picture>
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain4me&theme=tokyonight" alt="mystreak"/> -->
+
+
+
+<!-- [[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussain4me&layout=compact)](https://github.com/hussain4me/github-readme-stats) -->
+<!-- 
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME" -->
+<!-- 
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME" -->
+<!-- 
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME" -->
+
 <!--
 **hussain4me/hussain4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
