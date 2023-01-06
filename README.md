@@ -18,10 +18,10 @@ contributions
   <summary>
     Skills Interest
   </summary>
- -[X] Good Testing and maintenance skill
- -[X] Good Software development skill with PhP core, Laravel, Django, Mssql, Mysql, git, docker.
- -[X] Average knowledge with bootstrap, Html, javascript and css
- -[X] -Interest: Software Development and integration
+[X] Good Testing and maintenance skill
+[X] Good Software development skill with PhP core, Laravel, Django, Mssql, Mysql, git, docker.
+[X] Average knowledge with bootstrap, Html, javascript and css
+[X] Interest: Software Development and integration
 
 </details>
          
