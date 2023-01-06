@@ -34,13 +34,13 @@ Skills and Interest
 - whatsapp : +2348121217734
 
 
-![alt text](https://github.com/hussain4me/resource_repo/blob/main/phplogo_resize.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/php_new.png?raw=true)
 ![alt text](https://github.com/hussain4me/resource_repo/blob/main/laravellogo.png?raw=true)
 ![alt text](https://github.com/hussain4me/resource_repo/blob/main/pythonlogo.png?raw=true)
 ![alt text](https://github.com/hussain4me/resource_repo/blob/main/djangolog.png?raw=true)
 ![alt text](https://github.com/hussain4me/resource_repo/blob/main/mysqllogo.png?raw=true)
 ![alt text](https://github.com/hussain4me/resource_repo/blob/main/sqlitelogo.png?raw=true)
-![alt text](https://github.com/hussain4me/resource_repo/blob/main/jslogo.png?raw=true)
+![alt text](https://github.com/hussain4me/resource_repo/blob/main/js.png?raw=true)
 
 <picture>
 <source 
