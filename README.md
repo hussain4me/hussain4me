@@ -4,7 +4,7 @@
 
 I am Zubair Hussain by name,  a software engineer with a 3+ years of field experience, I have bagged Equivalent of Bachelor certificate in Computer Science.
 
-I love developing, integrating and modifying  of existing system based on individuals customization. I have learnt php core, Laravel,Python, Django, Mysql, Mssql,Sqlite and some of Also enjoy learning new technologies.
+I love developing, integrating and modifying existing system based on individuals customization. I have experience working with the following technologies such as php core, Laravel,Python, Django, Mysql, Mssql,Sqlite, also enjoy learning new technologies.
 
 🔭 I’m currently working at Majadtek Pro. as *Software Engineer II*.
 
