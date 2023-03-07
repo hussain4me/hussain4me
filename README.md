@@ -8,27 +8,7 @@ I love developing, integrating and modifying existing system based on individual
 
 🔭 I’m currently working at Majadtek Pro. as *Software Engineer II*.
 
-Contributions
 
--  **Zeichnen Services** – *ZSMS–ERP*  (School Mangt System [SMS]-Enterprise)		May 2022 – Till date
-      - Modifications of the existing zsms enterprise application
-
--  **Financials** – *Nexterp* (Financials Enterprise)		  		        January 2022 – Till date
-	-Modification of the existing Financings enterprise application
-
--  **Financials**– Nexterp (Financials Enterprise)		  		        January 2022 – Till date
-      - Modification of the existing Financings enterprise application
-
-
-
-Skills and Interest
-- [X] Good Testing and maintenance skill
-- [X] Good Software development skill with PhP core, Laravel, Django, Mssql, Mysql, git, docker.
-- [X] Average knowledge with bootstrap, Html, javascript and css
-- [X] Interest: Software Development and integration
-
-</details>
-         
 📫 How to reach me: 
 - email : hussain4me@yahoomail.com 
 - whatsapp : +2348121217734
