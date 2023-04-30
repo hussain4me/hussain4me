@@ -6,7 +6,7 @@ I am Zubair Hussain by name,  a software engineer with a 3+ years of field exper
 
 I love developing, integrating and modifying existing system based on individuals customization. I have experience working with the following technologies such as php core, Laravel,Python, Django, Mysql, Mssql,Sqlite, also enjoy learning new technologies.
 
-🔭 I’m currently working at Majadtek Pro. as *Software Engineer II*.
+🔭 I’m  a freelancer open to *work*.
 
 
 📫 How to reach me: 
