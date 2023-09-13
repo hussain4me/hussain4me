@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Zubair Hussain by name,  a software engineer with a 3+ years of field experience, I have bagged Equivalent of Bachelor certificate in Computer Science.
+I am Zubair Hussain by name,  a software engineer with a 4+ years of field experience, I have bagged Equivalent of Bachelor certificate in Computer Science.
 
 I love developing, integrating and modifying existing system based on individuals customization. I have experience working with the following technologies such as php core, Laravel,Python, Django, Mysql, Mssql,Sqlite, also enjoy learning new technologies.
 
